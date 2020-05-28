@@ -1,0 +1,1 @@
+A basic starter template using springboot, jpa data, thymeleaf and MVC
